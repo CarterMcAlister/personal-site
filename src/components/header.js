@@ -12,15 +12,21 @@ const Header = ({ siteTitle, className }) => (
           <Link to="/">Carter</Link>
         </SiteTitle>
         <HeaderLinks>
-          <li>
-            <Link to="/about">About</Link>
-          </li>
-          <li>
-            <Link to="/uses">Uses</Link>
-          </li>
-          <li>
-            <Link to="/contact">Contact</Link>
-          </li>
+          <NavItem>
+            <Link to="/about" activeClassName="selected-link">
+              About
+            </Link>
+          </NavItem>
+          <NavItem>
+            <Link to="/uses" activeClassName="selected-link">
+              Uses
+            </Link>
+          </NavItem>
+          <NavItem>
+            <Link to="/contact" activeClassName="selected-link">
+              Contact
+            </Link>
+          </NavItem>
         </HeaderLinks>
       </StyledNav>
     </Container>
@@ -46,10 +52,13 @@ const HeaderLinks = styled.ul`
   list-style: none;
   padding: 0;
   margin: 0;
+`;
 
-  li {
-    padding-left: 1.5rem;
-    margin: 0;
+const NavItem = styled.li`
+  padding-left: 1.5rem;
+  margin: 0;
+  .selected-link {
+    color: var(--primary-color);
   }
 `;
 

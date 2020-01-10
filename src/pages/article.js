@@ -1,5 +1,5 @@
 import React from "react";
-import { Link, graphql } from "gatsby";
+import { graphql } from "gatsby";
 
 import Layout from "../components/layout";
 import { Container } from "../components/layoutComponents";
@@ -15,12 +15,9 @@ export default function Template({
     <Layout>
       <Container>
         <Text>
-          <SEO title="Page two" />
+          <SEO title={frontmatter.title} />
           <h1>{frontmatter.title}</h1>
-          <div
-            className="blog-post-content"
-            dangerouslySetInnerHTML={{ __html: html }}
-          />
+          <div dangerouslySetInnerHTML={{ __html: html }} />
         </Text>
       </Container>
     </Layout>

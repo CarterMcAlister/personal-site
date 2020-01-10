@@ -6,22 +6,39 @@ import Image from "../components/image";
 import { Container } from "../components/layoutComponents";
 import SEO from "../components/seo";
 import { Text } from "../components/text";
+import styled from "styled-components";
+import CypherText from "../components/cypherText";
 
 const IndexPage = () => (
   <Layout>
     <Container>
       <Text>
         <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
-        <h1>Hi people</h1>
-        <p>Welcome to your new Gatsby site.</p>
-        <p>Now go build something great.</p>
-        <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-          <Image />
-        </div>
-        <Link to="/page-2/">Go to page 2</Link>
+        <h1>Hi there 👋</h1>
+        <FeaturedText>
+          I'm Carter McAlister, a Software Engineer from Texas.
+        </FeaturedText>
+        <FeaturedText>
+          I build things using <CypherText textList={textList} delay={1000} />
+        </FeaturedText>
       </Text>
     </Container>
   </Layout>
 );
+
+const textList = [
+  "Javascript",
+  "React",
+  "Node.js",
+  "AngularJS",
+  "CSS in JS",
+  "Gatsby",
+  "Java",
+  "HTML"
+];
+
+const FeaturedText = styled.p`
+  font-size: 1.35rem;
+`;
 
 export default IndexPage;
