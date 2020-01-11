@@ -17,4 +17,7 @@ export const Text = styled.div`
     color: var(--primary-color);
     text-decoration: underline;
   }
+  p {
+    font-size: 1.1rem;
+  }
 `;

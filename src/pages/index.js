@@ -1,20 +1,33 @@
 import React from "react";
-import { Link } from "gatsby";
+import styled from "styled-components";
 
 import Layout from "../components/layout";
-import Image from "../components/image";
 import { Container } from "../components/layoutComponents";
 import SEO from "../components/seo";
 import { Text } from "../components/text";
-import styled from "styled-components";
 import CypherText from "../components/cypherText";
 
 const IndexPage = () => (
   <Layout>
     <Container>
       <Text>
-        <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
-        <h1>Hi there 👋</h1>
+        <SEO
+          title="Home"
+          keywords={[
+            `software engineer`,
+            `developer`,
+            `react`,
+            `front-end`,
+            "web",
+            `gatsby`
+          ]}
+        />
+        <h1>
+          Hi there{" "}
+          <span role="img" aria-label="Wave">
+            👋
+          </span>
+        </h1>
         <FeaturedText>
           I'm Carter McAlister, a Software Engineer from Texas.
         </FeaturedText>

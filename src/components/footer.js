@@ -1,19 +1,31 @@
 import React from "react";
 import styled from "styled-components";
 import { Container } from "./layoutComponents";
+import { Text } from "./text";
 
-const Footer = ({ className }) => (
-  <footer className={className}>
+const Footer = () => (
+  <StyledFooter>
     <Container>
-      © {new Date().getFullYear()}, Built with
-      {` `}
-      <a href="https://www.gatsbyjs.org">Gatsby</a>
+      <Text>© {new Date().getFullYear()} - Carter McAlister</Text>
+      <Text>
+        Built with{" "}
+        <a
+          href="https://www.gatsbyjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Gatsby
+        </a>
+      </Text>
     </Container>
-  </footer>
+  </StyledFooter>
 );
 
-const StyledFooter = styled(Footer)`
+const StyledFooter = styled.footer`
   padding: 1rem 0;
+  display: flex;
+  flex-direction: row;
+  text-align: center;
 `;
 
-export default StyledFooter;
+export default Footer;
