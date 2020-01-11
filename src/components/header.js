@@ -41,9 +41,24 @@ Header.defaultProps = {
   siteTitle: ``
 };
 
+const mobileBreakpoint = "720px";
+
 const StyledNav = styled.nav`
   display: flex;
   justify-content: space-between;
+
+  @media (max-width: ${mobileBreakpoint}) {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+`;
+
+const NavItem = styled.li`
+  padding-left: 1.5rem;
+  margin: 0;
+  .selected-link {
+    color: var(--primary-color);
+  }
 `;
 
 const HeaderLinks = styled.ul`
@@ -52,13 +67,10 @@ const HeaderLinks = styled.ul`
   list-style: none;
   padding: 0;
   margin: 0;
-`;
-
-const NavItem = styled.li`
-  padding-left: 1.5rem;
-  margin: 0;
-  .selected-link {
-    color: var(--primary-color);
+  @media (max-width: ${mobileBreakpoint}) {
+    ${NavItem}:first-of-type {
+      padding-left: 0;
+    }
   }
 `;
 
@@ -75,12 +87,21 @@ const SiteTitle = styled.div`
 
 const StyledHeader = styled(Header)`
   color: var(--secondary-color);
-  padding: 2rem 0;
-  margin-bottom: 4rem;
+  margin-top: 4rem;
+  margin-bottom: 8rem;
   font-family: "Rubik", sans-serif;
 
   h1 {
     margin: 0;
+  }
+
+  @media (max-width: ${mobileBreakpoint}) {
+    margin-top: 3rem;
+    margin-bottom: 4rem;
+
+    ${SiteTitle} {
+      padding-bottom: 1rem;
+    }
   }
 `;
 
