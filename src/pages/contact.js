@@ -5,10 +5,22 @@ import Layout from "../components/layout";
 import { Container } from "../components/layoutComponents";
 import Icons from "../components/icons";
 import { Text } from "../components/text";
+import SEO from "../components/seo";
 
 const ContactPage = () => (
   <Layout>
     <Container>
+      <SEO
+        title="Contact"
+        keywords={[
+          `software engineer`,
+          `developer`,
+          `react`,
+          `front-end`,
+          "web",
+          `gatsby`
+        ]}
+      />
       <Text>
         <h1>Contact Me</h1>
         <p>

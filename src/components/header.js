@@ -88,7 +88,7 @@ const SiteTitle = styled.div`
 const StyledHeader = styled(Header)`
   color: var(--secondary-color);
   margin-top: 4rem;
-  margin-bottom: 8rem;
+  margin-bottom: 5rem;
   font-family: "Rubik", sans-serif;
 
   h1 {
