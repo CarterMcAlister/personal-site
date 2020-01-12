@@ -4,6 +4,8 @@ date: "2020-01-09"
 title: "Uses"
 ---
 
+Here is an overview of the hardware and software that I use. I am constantly refining my setup, so this page will serve as a living document.
+
 ###Primary Editor
 
 - [VS Code](https://code.visualstudio.com) is my favorite editor.
