@@ -1,9 +1,9 @@
 {
-  "name": "carter-mcalister-personal-site",
+  "name": "gatsby-starter-styled-components",
   "private": true,
-  "description": "My personal site",
+  "description": "A simple starter to get up and developing quickly with Gatsby and styled-components",
   "version": "0.1.0",
-  "author": "Carter McAlister",
+  "author": "Blake Noll <nollblake@gmail.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.6",
     "gatsby": "^2.17.10",
