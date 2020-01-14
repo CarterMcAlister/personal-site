@@ -35,7 +35,13 @@ module.exports = {
         path: `${__dirname}/src/content`
       }
     },
-    `gatsby-transformer-remark`
+    `gatsby-transformer-remark`,
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-156207639-1"
+      }
+    }
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.app/offline
     // 'gatsby-plugin-offline',
