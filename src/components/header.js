@@ -18,6 +18,11 @@ const Header = ({ siteTitle, className }) => (
             </Link>
           </NavItem>
           <NavItem>
+            <Link to="/projects" activeClassName="selected-link">
+              Projects
+            </Link>
+          </NavItem>
+          <NavItem>
             <Link to="/uses" activeClassName="selected-link">
               Uses
             </Link>
