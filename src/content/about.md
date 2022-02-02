@@ -4,8 +4,8 @@ date: "2020-01-09"
 title: "Who Am I?"
 ---
 
-Hello, I'm Carter McAlister. I'm a Software Engineer from Texas. I had a passion for coding from a young age, and launched my first website at 12. After graduating High School, I started working as a freelance developer.
+Hello, I'm Carter McAlister. I'm a Software Engineer from Texas.
 
-These days I specialize in front-end development using web technologies. Currently, I am working remotely for [Rocketmiles](https://www.rocketmiles.com) while traveling around the United States with my girlfriend Jess.
+I am a full-stack developer with a particular interest in building fast, scalable, accessible front-ends. Currently, I am a Core Contributor to [Alliance DAO](https://alliance.xyz) while traveling around the United States with my fiancée Jess.
 
-When I'm not writing code, I love spending time outdoors - hiking, skiing, mountain biking, and scuba diving.
+When I'm not writing code, I love spending time outdoors - EUCing, hiking, skiing, mountain biking, and scuba diving.
