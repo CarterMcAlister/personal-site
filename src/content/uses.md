@@ -11,6 +11,7 @@ Here is an overview of the hardware and software that I use. I am constantly ref
 - [Cloudinary](https://cloudinary.com/) for image hosting
 - [Github](https://github.com) for code hosting and CI/CD pipelines
 
+
 ### Tech Stack
 - [React](https://reactjs.org/)
 - [Next.js](https://nextjs.org/)
@@ -26,10 +27,10 @@ Here is an overview of the hardware and software that I use. I am constantly ref
 
 
 ### Editor
-
 - [VS Code](https://code.visualstudio.com) is my preferred editor.
 - [Fira Code](https://github.com/tonsky/FiraCode) font with ligatures
 - [Material Theme Italicize](https://marketplace.visualstudio.com/items?itemName=Serge.vsc-material-theme-italicize) editor theme
+
 
 ### Editor Extensions
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) to highlight different types of comments
@@ -61,12 +62,14 @@ Here is an overview of the hardware and software that I use. I am constantly ref
  - [1Password](https://1password.com/) for password management
  - [Rocket](https://matthewpalmer.net/rocket/) for Slack-like emoji picking in all applications
 
+
 ### Terminal
 - [iTerm2](https://www.iterm2.com/) is my terminal of choice
 - [Oh My Zsh](https://ohmyz.sh/) is my shell of choice
 - I use [zplugin](https://readthedocs.org/projects/zplugin/) to manage my ZSH plugins
 - I use [Z](https://github.com/agkozak/zsh-z) to quickly jump between project folders
 - I use the [Powerlevel10k](https://github.com/romkatv/powerlevel10k) theme, it is customizable and fast
+
 
 ### Hardware
 (AKA Apple products)
@@ -75,6 +78,7 @@ Here is an overview of the hardware and software that I use. I am constantly ref
 - I use a [Magic Trackpad](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad) as I prefer to use a trackpad over a mouse.
 - [Airpods Pro](https://www.apple.com/airpods-pro/) are my wireless headphones of choice.
 - I use an [iPad Pro](https://www.apple.com/ipad-pro/) as a second monitor via Sidecar.
+
 
 ### Other Gear
 I am currently traveling the US while working so while I don't have any desk or chair recommendations for you, I do have other gear that I carry with me.
