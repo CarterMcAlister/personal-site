@@ -18,7 +18,7 @@ const IndexPage = () => (
             `developer`,
             `react`,
             `front-end`,
-            "web",
+            `web`,
             `gatsby`
           ]}
         />
@@ -40,14 +40,11 @@ const IndexPage = () => (
 );
 
 const textList = [
-  "Javascript",
+  "Typescript",
   "React",
   "Node.js",
-  "AngularJS",
+  "Solidity",
   "CSS in JS",
-  "Gatsby",
-  "Java",
-  "HTML"
 ];
 
 const FeaturedText = styled.p`
