@@ -32,8 +32,7 @@ const ContactPage = () => (
             rel="noopener noreferrer"
           >
             Twitter
-          </a>
-           or <a href="https://t.me/carterm" 
+          </a> or <a href="https://t.me/carterm" 
                   target="_blank"
                   rel="noopener noreferrer">Telegram</a>.
         </p>
