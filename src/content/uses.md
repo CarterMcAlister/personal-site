@@ -30,7 +30,7 @@ Here is an overview of the hardware and software that I use. I am constantly ref
 <br />
 
 ### Editor
-- [VS Code](https://code.visualstudio.com) is my preferred editor.
+- [VS Code](https://code.visualstudio.com) is my preferred editor
 - [Fira Code](https://github.com/tonsky/FiraCode) font with ligatures
 - [Material Theme Italicize](https://marketplace.visualstudio.com/items?itemName=Serge.vsc-material-theme-italicize) editor theme
 <br />
@@ -80,16 +80,16 @@ Here is an overview of the hardware and software that I use. I am constantly ref
 
 ### Hardware
 (AKA Apple products)
-- My main development machine is a [MacBook Pro M1X 16"](https://www.apple.com/macbook-pro-14-and-16/). 
-- I use an [Apple Magic Keyboard](https://www.apple.com/shop/product/MK2A3LL/A/magic-keyboard-us-english) for its compact size, battery life, and lack of a numpad.
-- I use a [Magic Trackpad](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad) as I prefer to use a trackpad over a mouse.
-- [Airpods Pro](https://www.apple.com/airpods-pro/) are my wireless headphones of choice.
-- I use an [iPad Pro](https://www.apple.com/ipad-pro/) as a second monitor via Sidecar.
+- My main development machine is a [MacBook Pro M1X 16"](https://www.apple.com/macbook-pro-14-and-16/)
+- I use an [Apple Magic Keyboard](https://www.apple.com/shop/product/MK2A3LL/A/magic-keyboard-us-english) for its compact size, battery life, and lack of a numpad
+- I use a [Magic Trackpad](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad) as I prefer to use a trackpad over a mouse
+- [Airpods Pro](https://www.apple.com/airpods-pro/) are my wireless headphones of choice
+- I use an [iPad Pro](https://www.apple.com/ipad-pro/) as a second monitor via Sidecar
 <br />
 <br />
 
 ### Other Gear
-I am currently traveling the US while working so while I don't have any desk or chair recommendations for you, I do have other gear that I carry with me.
+I am currently traveling the US while working so while I don't have any desk or chair recommendations for you, I do have other gear that I carry with me
 
 - The [Nexstand Laptop Stand](https://www.amazon.com/Nexstand-Laptop-Stand-Portable-MacBook/dp/B01HHYQBB8/ref=sr_1_1_sspa) is a great portable laptop stand
 - My go-to backpack is a [GoRuck GR1](https://www.goruck.com/gr1/)
