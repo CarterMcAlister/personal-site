@@ -5,12 +5,14 @@ title: "Uses"
 ---
 
 Here is an overview of the hardware and software that I use. I am constantly refining my setup, so this page will change over time.
-
+<br />
+<br />
 ### Services
 - [Vercel](https://vercel.com/) or Railway(https://railway.app/) for site hosting
 - [Cloudinary](https://cloudinary.com/) for image hosting
 - [Github](https://github.com) for code hosting and CI/CD pipelines
-
+<br />
+<br />
 
 ### Tech Stack
 - [React](https://reactjs.org/)
@@ -24,13 +26,15 @@ Here is an overview of the hardware and software that I use. I am constantly ref
 - [Chakra](https://chakra-ui.com/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [React Icons](https://react-icons.netlify.com/)
-
+<br />
+<br />
 
 ### Editor
 - [VS Code](https://code.visualstudio.com) is my preferred editor.
 - [Fira Code](https://github.com/tonsky/FiraCode) font with ligatures
 - [Material Theme Italicize](https://marketplace.visualstudio.com/items?itemName=Serge.vsc-material-theme-italicize) editor theme
-
+<br />
+<br />
 
 ### Editor Extensions
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) to highlight different types of comments
@@ -46,7 +50,8 @@ Here is an overview of the hardware and software that I use. I am constantly ref
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=tailwindcss.vscode-tailwind-intellisense) for Tailwind autocompletes
 - [Headwind](https://marketplace.visualstudio.com/items?itemName=heybourn.headwind) for organizing Tailwind classes
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=ms-vscode.version-lens) for checking what dependencies are outdated
-
+<br />
+<br />
 
 ### Software
 - I use [Brave](https://www.brave.com) as my main browser for a chrome-like experience, in addition of ad and tracker blocking, along with [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) for testing and the excellent CSS tools
@@ -61,7 +66,8 @@ Here is an overview of the hardware and software that I use. I am constantly ref
 - [Notion](https://www.notion.so/) for notes, planning, and collaborative docs
  - [1Password](https://1password.com/) for password management
  - [Rocket](https://matthewpalmer.net/rocket/) for Slack-like emoji picking in all applications
-
+<br />
+<br />
 
 ### Terminal
 - [iTerm2](https://www.iterm2.com/) is my terminal of choice
@@ -69,7 +75,8 @@ Here is an overview of the hardware and software that I use. I am constantly ref
 - I use [zplugin](https://readthedocs.org/projects/zplugin/) to manage my ZSH plugins
 - I use [Z](https://github.com/agkozak/zsh-z) to quickly jump between project folders
 - I use the [Powerlevel10k](https://github.com/romkatv/powerlevel10k) theme, it is customizable and fast
-
+<br />
+<br />
 
 ### Hardware
 (AKA Apple products)
@@ -78,7 +85,8 @@ Here is an overview of the hardware and software that I use. I am constantly ref
 - I use a [Magic Trackpad](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad) as I prefer to use a trackpad over a mouse.
 - [Airpods Pro](https://www.apple.com/airpods-pro/) are my wireless headphones of choice.
 - I use an [iPad Pro](https://www.apple.com/ipad-pro/) as a second monitor via Sidecar.
-
+<br />
+<br />
 
 ### Other Gear
 I am currently traveling the US while working so while I don't have any desk or chair recommendations for you, I do have other gear that I carry with me.
