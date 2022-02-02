@@ -17,7 +17,7 @@ const ContactPage = () => (
           `developer`,
           `react`,
           `front-end`,
-          "web",
+          `web`,
           `gatsby`
         ]}
       />
@@ -27,29 +27,24 @@ const ContactPage = () => (
           Want to hire me for a project, have a question about something, or
           just want to say hello? You can message me on{" "}
           <a
-            href="https://www.instagram.com/carter.mcalister/"
+            href="https://twitter.com/CarterMcaIister/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Instagram
+            Twitter
           </a>
-          , or <a href="mailto:carterm126@gmail.com">email me</a>.
+          , or <a href="https://t.me/carterm" 
+                  target="_blank"
+                  rel="noopener noreferrer">Telegram</a>.
         </p>
       </Text>
       <IconPanel>
         <a
-          href="https://www.instagram.com/carter.mcalister/"
+          href="https://twitter.com/CarterMcaIister"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Icons icon="Instagram" />
-        </a>
-        <a
-          href="https://www.codepen.io/cartermcalister/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Icons icon="Codepen" />
+          <Icons icon="Twitter" />
         </a>
         <a
           href="https://www.linkedin.com/in/carter-mcalister/"
